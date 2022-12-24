@@ -4,4 +4,4 @@ anggota :
 - Marwan Ironman
 - Oei Hulk
 - Tamam Spiderman
-- Aqiilah Ahmad F.
+- Aqiilah Ahmad
